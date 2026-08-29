@@ -1,0 +1,13 @@
+Time=0    TX=1 Busy=0 Data=00
+Time=10   TX=1 Busy=1 Data=41
+Time=20   TX=0 Busy=1 Data=41   // Start Bit
+Time=30   TX=1 Busy=1
+Time=40   TX=0 Busy=1
+Time=50   TX=0 Busy=1
+Time=60   TX=0 Busy=1
+Time=70   TX=0 Busy=1
+Time=80   TX=0 Busy=1
+Time=90   TX=1 Busy=1
+Time=100  TX=0 Busy=1
+Time=110  TX=1 Busy=1          // Stop Bit
+Time=120  TX=1 Busy=0
